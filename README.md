@@ -3,7 +3,9 @@
 STM32 optimized Cryptographic Library
 
 # Supported Hardware
-- 
+- NUCLEO-L552ZE-Q
+- NUCLEO-H745ZI-Q
+
 # Functions guide
 
 # How to use
